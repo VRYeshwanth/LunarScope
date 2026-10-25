@@ -1,1 +1,5 @@
 .venv
+.cache
+
+archives
+data
