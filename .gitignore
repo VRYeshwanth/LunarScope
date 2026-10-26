@@ -4,3 +4,7 @@
 archives
 data
 datasets
+runs
+weights
+
+yolo11n.pt
